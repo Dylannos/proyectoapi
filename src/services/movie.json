@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "moviename": "Titanes del Pacífico",
+    "actors": [
+      {
+        "firstname": "Charlie",
+        "lastname": "Hunnam",
+        "nationality": "Británico",
+        "image": "https://example.com/charlie_hunnam.jpg",
+        "Birthday": "10 de abril de 1980"
+      },
+      {
+        "primerNombre": "Idris",
+        "apellido": "Elba",
+        "nacionalidad": "Británico",
+        "imagen": "https://example.com/idris_elba.jpg",
+        "cumpleaños": "6 de septiembre de 1972"
+      },
+      {
+        "primerNombre": "Rinko",
+        "apellido": "Kikuchi",
+        "nacionalidad": "Japonesa",
+        "imagen": "https://example.com/rinko_kikuchi.jpg",
+        "cumpleaños": "6 de enero de 1981"
+      }
+    ],
+    "directores": [
+      {
+        "primerNombre": "Guillermo",
+        "apellido": "del Toro",
+        "nacionalidad": "Mexicano",
+        "imagen": "https://example.com/guillermo_del_toro.jpg",
+        "cumpleaños": "9 de octubre de 1964"
+      }
+    ],
+    "imagenes": {
+      "poster": "https://example.com/pacific_rim_poster.jpg",
+      "trailer": "https://example.com/pacific_rim_trailer.mp4"
+    },
+    "sinopsis": "Titanes del Pacífico es una película de ciencia ficción dirigida por Guillermo del Toro. La película se desarrolla en un futuro donde la humanidad se enfrenta a monstruos gigantes llamados Kaijus que emergen del océano. Para combatirlos, se construyen enormes robots llamados Jaegers, controlados por pilotos humanos. La historia sigue a un grupo de pilotos mientras luchan contra la amenaza Kaiju y tratan de salvar al mundo.",
+    "anioLanzamiento": 2013
+  },
+
+  {
+    "id": 2,
+    "moviename": "Cocoon",
+    "actors": [
+      {
+        "primerNombre": "Don",
+        "apellido": "Ameche",
+        "nacionalidad": "Estadounidense",
+        "imagen": "https://example.com/don_ameche.jpg",
+        "cumpleaños": "31 de mayo de 1908"
+      },
+      {
+        "primerNombre": "Wilford",
+        "apellido": "Brimley",
+        "nacionalidad": "Estadounidense",
+        "imagen": "https://example.com/wilford_brimley.jpg",
+        "cumpleaños": "27 de septiembre de 1934"
+      },
+      {
+        "primerNombre": "Hume",
+        "apellido": "Cronyn",
+        "nacionalidad": "Canadiense",
+        "imagen": "https://example.com/hume_cronyn.jpg",
+        "cumpleaños": "18 de julio de 1911"
+      }
+    ],
+    "directores": [
+      {
+        "primerNombre": "Ron",
+        "apellido": "Howard",
+        "nacionalidad": "Estadounidense",
+        "imagen": "https://example.com/ron_howard.jpg",
+        "cumpleaños": "1 de marzo de 1954"
+      }
+    ],
+    "imagenes": {
+      "poster": "https://example.com/cocoon_poster.jpg",
+      "trailer": "https://example.com/cocoon_trailer.mp4"
+    },
+    "sinopsis": "Cocoon es una película de ciencia ficción dirigida por Ron Howard. La película se centra en un grupo de personas mayores que descubre una piscina secreta que tiene propiedades curativas y rejuvenecedoras. A medida que utilizan la piscina, experimentan cambios sorprendentes en sus vidas y cuerpos, lo que plantea cuestiones morales y éticas.",
+    "anioLanzamiento": 1985
+  },
+
+  {
+    "id": 3,
+    "moviename": "Battleship: Batalla Naval",
+    "actors": [
+      {
+        "primerNombre": "Taylor",
+        "apellido": "Kitsch",
+        "nacionalidad": "Canadiense",
+        "imagen": "https://example.com/taylor_kitsch.jpg",
+        "cumpleaños": "8 de abril de 1981"
+      },
+      {
+        "primerNombre": "Liam",
+        "apellido": "Neeson",
+        "nacionalidad": "Irlandés",
+        "imagen": "https://example.com/liam_neeson.jpg",
+        "cumpleaños": "7 de junio de 1952"
+      },
+      {
+        "primerNombre": "Rihanna",
+        "apellido": "Fenty",
+        "nacionalidad": "Barbadense",
+        "imagen": "https://example.com/rihanna.jpg",
+        "cumpleaños": "20 de febrero de 1988"
+      }
+    ],
+    "directores": [
+      {
+        "primerNombre": "Peter",
+        "apellido": "Berg",
+        "nacionalidad": "Estadounidense",
+        "imagen": "https://example.com/peter_berg.jpg",
+        "cumpleaños": "11 de marzo de 1964"
+      }
+    ],
+    "imagenes": {
+      "poster": "https://example.com/battleship_poster.jpg",
+      "trailer": "https://example.com/battleship_trailer.mp4"
+    },
+    "sinopsis": "Battleship: Batalla Naval es una película de ciencia ficción dirigida por Peter Berg. La película se desarrolla cuando una flota de naves alienígenas llega a la Tierra y desencadena una épica batalla naval. Un oficial de la Marina y su tripulación deben enfrentarse a esta amenaza inesperada y luchar por la supervivencia de la humanidad.",
+    "anioLanzamiento": 2012
+  }
+]
