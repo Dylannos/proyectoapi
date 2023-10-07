@@ -1,7 +1,8 @@
 import movieInfo from './movie.json'
+import { MovieEntry } from '../type';
 
-export const getEntries = () => movieInfo;
+const movies: Array<MovieEntry> = movieInfo as Array<MovieEntry>
 
-export const addEntry = () => null;
+export const getEntries = () => movies
 
- 
+export const addEntry = () => null
