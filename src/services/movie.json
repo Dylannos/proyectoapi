@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "moviename": "Titanes del Pacífico",
+    "movieName": "Titanes del Pacífico",
     "actors": [
       {
         "firstName": "Charlie",
@@ -44,7 +44,7 @@
 
   {
     "id": 2,
-    "moviename": "Cocoon",
+    "movieName": "Cocoon",
     "actors": [
       {
         "firstName": "Don",
@@ -87,7 +87,7 @@
 
   {
     "id": 3,
-    "moviename": "Battleship: Batalla Naval",
+    "movieName": "Battleship: Batalla Naval",
     "actors": [
       {
         "firstName": "Taylor",
